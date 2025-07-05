@@ -9,3 +9,14 @@ Here are some ideas to get you started:
 ## Test 2
 
 > Just a test
+
+### Test 3
+
+here is a bunch of text
+
+and here is a list 
+
+* here
+* jere 
+* here
+
