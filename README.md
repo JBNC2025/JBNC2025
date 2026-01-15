@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-**JBNC2025/JBNC2025** is a ✨ _special_ ✨ file. For MANY different reasons.
+Welcome to my github
 
 - [Catch](test.md)
