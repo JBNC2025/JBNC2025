@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my github
+Welcome to my Github profile!
 
 <!--- 
 - [Catch](test.md)
